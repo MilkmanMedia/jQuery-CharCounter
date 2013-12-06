@@ -1,6 +1,6 @@
 /**
- * Project: jQuery FieldFocus
- * Description: Small plugin for handling defaulttexts in inputfields
+ * Project: jQuery CharCounter
+ * Description: jQuery Plugin to set and show charlimits directly in inputfield.
  * Author: Daniel Köntös :: MilkmanMedia - Your WebApp Innovator - www.MilkmanMedia.de
  * License: MIT, GPL
  * 
